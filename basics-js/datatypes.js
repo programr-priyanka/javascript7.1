@@ -22,8 +22,30 @@
 // console.log(mySalary)
 // console.log(typeof(mySalary))
 
-let y = Symbol("hello");
-console.log(y);
-console.log(y.description); // its show the unique value of the symbol
-console.log(typeof(y));
+// let y = Symbol("hello");
+// console.log(y);
+// console.log(y.description); // its show the unique value of the symbol
+// console.log(typeof(y));
 
+// let shradha = {
+//     "name": "shradha suman",
+//     "age": 25,
+//     "address": "bhubaneswar",
+//     "salary": 3500
+// }
+// console.log(shradha);
+// console.log(shradha["age"]);
+// console.log(shradha["salary"]);
+// console.log(shradha["address"]);
+
+
+// let arr = [2,3,4,5,6,8,5,7,8]
+// console.log(arr)
+// console.log(arr [3])
+// console.log(arr[6])
+
+function wakeUp() {
+    console.log("good morning");
+    console.log
+    
+}
