@@ -34,7 +34,7 @@ Variable :-
 
 Rules for creating Variable Name :-
 
--variable names are case sensetive i.e "a" & "A" is different.
+- variable names are case sensetive i.e "a" & "A" is different.
 - only Letter, Digits, Underscore, & special character is allowed.(white space is not allowed).
 - only letter, underscore & special character should be 1st character only.
 - reserved words cannot be a variable names.
@@ -49,9 +49,9 @@ Datatypes in JS :-
 
 
 1. Primitive :-
-    IN Javascript  there are 7 types of data types are present.
-    1. Number :- Number are types of data types those it contain some nuumerical value.
-    2. Boolean :- in boolean data types we get Boolean value like  true & false.
+  IN Javascript  there are 7 types of data types are present.
+   1. Number :- Number are types of data types those it contain some nuumerical value.
+   2. Boolean :- in boolean data types we get Boolean value like  true & false.
    3. undefined:-in undefiend data types the data  is not defined so that it will show undefiend.
    4. Null :- in this data type we get null for the value means nothing.
    5. bigInt :- in bigint we will get big integer value.
